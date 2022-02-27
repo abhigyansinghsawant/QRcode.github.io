@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.qr{
+    background-color: rgb(255, 255, 255);
+
+    margin: 150px auto;
+    height :465px;
+    width:20%;
+    border-radius: 14px;
+    position: relative;
+    box-shadow: inset;
+}
+img{
+    width:95%;
+    margin: auto;
+
+    border-radius: 5px;
+position: absolute;
+top: 8px;
+left: 7px;
+
+    
+}
+.heading{
+    position: absolute;
+    top: 300px;
+    text-align: center;
+    color:  hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    width: 70%;
+    left: 45px;
+}
+.para{
+    position: absolute;
+    top: 373px;
+text-align: center;
+    color: hsl(220, 15%, 55%);
+    width: 70%;
+    margin: auto;
+    left: 45px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+    
+}
